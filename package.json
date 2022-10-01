@@ -1,5 +1,5 @@
 {
-  "name": "@evgeniyegoorov/ajs",
+  "name": "@bas27/ajs-1",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgeniyEgoorov/ajs.git"
+    "url": "git+https://github.com/bas27/ajs-1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniyEgoorov/ajs/issues"
+    "url": "https://github.com/bas27/ajs-1/issues"
   },
-  "homepage": "https://github.com/EvgeniyEgoorov/ajs#readme",
+  "homepage": "https://github.com/bas27/ajs-1#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.19.3",
